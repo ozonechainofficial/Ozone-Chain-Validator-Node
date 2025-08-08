@@ -19,7 +19,7 @@ Ozone Chain is a high-performance, EVM-compatible blockchain designed for secure
 - **Build Type**: Custom Go-based binary
 - **Architecture**: Supports Linux x86_64 (cross-compilation supported)
 - **Repository**: _[Private/Internal]_ (or public link if available)
-- **Binary link**: https://drive.google.com/file/d/1VrysvCEpUeaSBXCJ4DzhxXjUfaJqkzAs/view?usp=sharing
+- **Download Binary**: https://drive.google.com/file/d/1VrysvCEpUeaSBXCJ4DzhxXjUfaJqkzAs/view?usp=sharing
 
 ---
 
