@@ -69,7 +69,8 @@ Ozone Chain is a high-performance, EVM-compatible blockchain designed for secure
 ## 📎 License
 
 
-This project is not open source; all rights and copyrights are reserved.
+Copyright © 2025 Ozone Automation Technology Inc. All rights reserved.
+This project is proprietary and confidential. Unauthorized copying, modification, distribution, or use is strictly prohibited without written permission from Ozone Automation Technology Inc.
 
 
 ---
@@ -78,7 +79,7 @@ This project is not open source; all rights and copyrights are reserved.
 ## 📞 Contact & Support
 
 
-- **Community**: _[Add Telegram, Discord, or Forum links if available]_
+- **Community**: https://discord.com/invite/cSGE8vY7
 - **Bug Reports**: Please open an issue in the repository
 - **Contributors**: Maintained by the Ozone Core Team
 
